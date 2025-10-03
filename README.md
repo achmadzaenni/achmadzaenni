@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Achmad Zaenni  
+# Achmad Zaenni👋  
 
 Welcome to my GitHub profile! 🚀  
 I love building web-based applications and exploring new technologies.  
@@ -47,8 +47,8 @@ I love building web-based applications and exploring new technologies.
 ## 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/achmadzaenni)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/achmadzaenni)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/achmadzaenni)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Adrian_adri4)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Adrian)  
 [![Portfolio Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)  
 
 ---
